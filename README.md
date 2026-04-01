@@ -71,12 +71,7 @@ ________________________________________
 
 https://www.tinkercad.com/things/7CqEAtRr0Ak/editel?lessonid=EFU6PEHIXGFUR1J&projectid=OGK4Q7VL20FZRV9&collectionid=undefined&title=Editing%20Components#/lesson-viewer
 ________________________________________
-📄 Laporan
 
-Laporan lengkap dapat dilihat pada file:
-
-Tugas 4_H1H024040_Arifin Budi Kusuma.pdf
-________________________________________
 📌 Kesimpulan
 
 Sistem traffic light 4 arah berhasil diimplementasikan menggunakan Arduino Uno dengan memanfaatkan GPIO sebagai pengendali LED. Sistem berjalan secara otomatis, terstruktur, dan sesuai dengan aturan lalu lintas yang telah ditentukan.
